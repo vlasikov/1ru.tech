@@ -1,4 +1,4 @@
-
+<!-- http://ttheme.website/refib/ -->
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -45,8 +45,8 @@
 <link rel="canonical" href="http://ttheme.website/refib/" />
 <link rel='shortlink' href='http://ttheme.website/refib/' />
 <link rel="alternate" type="application/json+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F&#038;format=xml" />
- -->
+<link rel="alternate" type="text/xml+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F&#038;format=xml" /> -->
+
 
 <link rel='stylesheet' id='wp-block-library-css'  href='css/style.min.css?ver=5.0.4' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='css/styles.css?ver=5.0.2' type='text/css' media='all' />
@@ -62,14 +62,15 @@
 <link rel='stylesheet' id='kc-general-css'  href='css/kingcomposer.min.css?ver=2.7.8' type='text/css' media='all' />
 <link rel='stylesheet' id='kc-animate-css'  href='css/1/animate.css?ver=2.7.8' type='text/css' media='all' />
 <link rel='stylesheet' id='kc-icon-1-css'  href='css/icon.css' type='text/css' media='all' />
-<!-- <link rel='https://api.w.org/' href='http://ttheme.website/refib/wp-json/' /> -->
-<!-- <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ttheme.website/refib/xmlrpc.php?rsd" /> -->
-<!-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ttheme.website/refib/wp-includes/wlwmanifest.xml" />  -->
-<!-- <meta name="generator" content="WordPress 5.0.4" /> -->
-<!-- <link rel="canonical" href="http://ttheme.website/refib/" /> -->
-<!-- <link rel='shortlink' href='http://ttheme.website/refib/' /> -->
-<!-- <link rel="alternate" type="application/json+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F" /> -->
-<!-- <link rel="alternate" type="text/xml+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F&#038;format=xml" /> -->
+
+<!-- <link rel='https://api.w.org/' href='http://ttheme.website/refib/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ttheme.website/refib/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ttheme.website/refib/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.4" />
+<link rel="canonical" href="http://ttheme.website/refib/" />
+<link rel='shortlink' href='http://ttheme.website/refib/' />
+<link rel="alternate" type="application/json+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F&#038;format=xml" /> -->
 
 
 <style id='adam_custom_style-inline-css' type='text/css'>
@@ -141,39 +142,12 @@
 
 <script type='text/javascript' src='js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='js/scripts.js?ver=5.0.2'></script>
-<script type='text/javascript' src='js/owl.carousel.min.js?ver=20120206'></script>
-<script type='text/javascript' src='js/jquery.mixitup.min.js?ver=20120206'></script>
-<script type='text/javascript' src='js/isotope.min.js?ver=20120206'></script>
-<script type='text/javascript' src='js/bootstrap.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/menumaker.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/jquery.slicknav.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/main.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/kingcomposer.min.js?ver=2.7.8'></script>
-<script type='text/javascript' src='js/wp-embed.min.js?ver=5.0.4'></script>
-<script type="text/javascript"></script>
 
 <!-- <script type='text/javascript' src='http://ttheme.website/refib/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
 <script type='text/javascript' src='http://ttheme.website/refib/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type="text/javascript">
 	var kc_script_data={ajax_url:"http://ttheme.website/refib/wp-admin/admin-ajax.php"}
-</script>
-<script type='text/javascript'>
-	/* <![CDATA[ */
-	var wpcf7 = {"apiSettings":{"root":"http:\/\/ttheme.website\/refib\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
-	/* ]]> */
-</script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/owl.carousel.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/jquery.mixitup.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/isotope.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/refit-main.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/bootstrap.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/menumaker.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/jquery.slicknav.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/main.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/kingcomposer/assets/frontend/js/kingcomposer.min.js?ver=2.7.8'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script> -->
+</script>-->
 
 </head>
 <body class="home page-template-default page page-id-393 kingcomposer kc-css-system">
@@ -188,112 +162,11 @@
 </div>
  
 <div id="page" class="site ">
-    <div class="header">
-        <!--Start: Header Info -->
-        <div class="container">
-            <div class="row">
-				<!-- Start : Logo -->
-                <div class="col-lg-2 navbar-brand col-sm-2 col-xs-12">
-                    <div class="logo">
-						<a href="index.html">РУСТЕХ</a>	
-					</div>
-				</div>
-				<!-- End : Logo -->
-                <div class="col-lg-offset-1 col-lg-8 col-sm-10 col-xs-12">
-                    <div class="row"> 
-						<div class="col-sm-4">
-							<div class="top-icon">
-								<i class="fas fa-clock"></i>
-							</div>										
-							<div>
-								<span class="top-title">Время работы</span>
-								<div class="refit-number">9 - 18</div>
-							</div>
-						</div><!-- End: Opening time -->
-						<div class="col-sm-4">
-							<div class="top-icon">
-								<i class="fas fa-headphones"></i>
-							</div>			
-							<div>
-								<span class="top-title">Наш телефон</span>
-								<div class="refit-number">234 567 234 875</div>
-							</div>
-						</div><!-- End: Opening time -->
-						<div class="col-sm-4">
-							<div class="top-icon">
-								<i class="fas fa-envelope-o"></i>
-							</div>			
-							<div>
-								<span class="top-title">Наш Email</span>
-								<div class="refit-number">yourmail@gmail.com</div>
-							</div>
-						</div><!-- End: Opening time -->									 	
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- End: Header Info -->	
-    <!-- Start: header navigation -->
-    <div class="navigation navigation_none" id="sticky_navigation">
-        <div class="container">
-            <div class="row">
-				<div >
-					<div class="col-md-10">
-						<div class="mainmenu">                      				
-							<div class="menu-menu-1-container">
-								<ul id="primary-menu" class="menu">
-									<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-393 current_page_item menu-item-396"><a href="index.html">Главная</a></li>
-									<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="about.html">О нас</a></li>
-									<li id="menu-item-394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-394"><a href="#">страницы</a>
-										<ul class="sub-menu">
-											<li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-397"><a href="contact.html">Контакты</a></li>
-											<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-400"><a href="service.html">Сервис</a>
-												<ul class="sub-menu">
-													<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="blog.html">Блог</a></li>
-													<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399"><a href="gallery.html">Галерея</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-									<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="gallery.html">Галерея</a></li>
-									<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="service.html">Сервис</a></li>
-									<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="blog.html">Блог</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-                	<div class="social-nav col-sm-2">
-                    	<ul class="listnone">
-							<li>
-								<a href="#">
-									<i class="fa fa-pinterest-p"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#">
-									<i class="fa fa-dribbble"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#">
-									<i class="fa fa-instagram"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#">
-									<i class="fa fa-whatsapp"></i>
-								</a>
-							</li>															 
-						</ul>				
-              	  </div><!-- End: social-nav -->
-            	</div><!--/ row -->
-            </div><!--/ row -->
-        </div><!--/ container -->
-    </div>
-	<!-- End: header navigation -->						
-    <!-- End:  slider
-==================================================-->
+
+	<?php require "header.php";?>
+
+	<?php require "navigation.php";?>
+					
 	<!-- Start: banner -->
 	<div class="adam_internal_area">
 		<div class="container">
@@ -1186,6 +1059,21 @@
 		</div>
 	</footer><!-- #colophon -->
 	</div><!-- #page -->
+
+
+<!-- <script type='text/javascript' src='js/jquery/jquery.js?ver=1.12.4'></script> -->
+<!-- <script type='text/javascript' src='js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<script type='text/javascript' src='js/scripts.js?ver=5.0.2'></script>
+<script type='text/javascript' src='js/owl.carousel.min.js?ver=20120206'></script>
+<script type='text/javascript' src='js/jquery.mixitup.min.js?ver=20120206'></script>
+<script type='text/javascript' src='js/isotope.min.js?ver=20120206'></script>
+<script type='text/javascript' src='js/bootstrap.min.js?ver=3.3.7'></script>
+<script type='text/javascript' src='js/menumaker.js?ver=3.3.7'></script>
+<script type='text/javascript' src='js/jquery.slicknav.min.js?ver=3.3.7'></script>
+<script type='text/javascript' src='js/main.js?ver=3.3.7'></script>
+<script type='text/javascript' src='js/kingcomposer.min.js?ver=2.7.8'></script>
+<script type='text/javascript' src='js/wp-embed.min.js?ver=5.0.4'></script>
+<script type="text/javascript"></script>
 
 <!-- <script type='text/javascript'>
 	/* <![CDATA[ */
