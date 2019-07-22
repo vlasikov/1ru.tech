@@ -506,7 +506,7 @@ Tags: custom-background, custom-colors, custom-header, custom-menu, editor-style
 ================================= */
  
  .adam_breadcrum_area {
-     background-image: url(assets/img/header_bg.jpg);
+     background-image: url(/img/header_bg.jpg);
 	 position: relative;
 	 z-index: 1;
      color: #FFF;
