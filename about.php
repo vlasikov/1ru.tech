@@ -9,14 +9,14 @@
 	<title>About &#8211; Repair WordPress Theme</title>
 	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
 	<link rel='dns-prefetch' href='//s.w.org' />
-	<link rel="alternate" type="application/rss+xml" title="Repair WordPress Theme &raquo; Feed"
+	<!-- <link rel="alternate" type="application/rss+xml" title="Repair WordPress Theme &raquo; Feed"
 		href="http://ttheme.website/refib/feed/" />
 	<link rel="alternate" type="application/rss+xml" title="Repair WordPress Theme &raquo; Comments Feed"
 		href="http://ttheme.website/refib/comments/feed/" />
 	<script type="text/javascript">
 		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "http:\/\/ttheme.website\/refib\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.4" } };
 		!function (a, b, c) { function d(a, b) { var c = String.fromCharCode; l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0); var d = k.toDataURL(); l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0); var e = k.toDataURL(); return d === e } function e(a) { var b; if (!l || !l.fillText) return !1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) { case "flag": return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b); case "emoji": return b = d([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]), !b }return !1 } function f(a) { var c = b.createElement("script"); c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c) } var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d"); for (j = Array("flag", "emoji"), c.supports = { everything: !0, everythingExceptFlag: !0 }, i = 0; i < j.length; i++)c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () { c.DOMReady = !0 }, c.supports.everything || (h = function () { c.readyCallback() }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () { "complete" === b.readyState && c.readyCallback() })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji))) }(window, document, window._wpemojiSettings);
-	</script>
+	</script> -->
 	<style type="text/css">
 		img.wp-smiley,
 		img.emoji {
@@ -31,7 +31,7 @@
 			padding: 0 !important;
 		}
 	</style>
-	<link rel='stylesheet' id='wp-block-library-css'
+	<!-- <link rel='stylesheet' id='wp-block-library-css'
 		href='http://ttheme.website/refib/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='contact-form-7-css'
@@ -63,7 +63,24 @@
 		href='https://fonts.googleapis.com/css?family=Roboto%3A400%7CPT+Sans%3A700' type='text/css' media='all' />
 	<link rel='stylesheet' id='adam_custom_style-css'
 		href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/css/custom_style.css?ver=5.0.4'
-		type='text/css' media='all' />
+		type='text/css' media='all' /> -->
+
+
+	<link rel='stylesheet' id='wp-block-library-css'  href='css/style.min.css?ver=5.0.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='contact-form-7-css'  href='css/styles.css?ver=5.0.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='owl.carousel-css'  href='css/owl.carousel.css?ver=5.0.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='refit-toolkit-css'  href='css/refit-toolkit.css?ver=5.0.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='refib_default-css'  href='css/default.css?ver=1.0' type='text/css' media='all' />
+	<link rel='stylesheet' id='bootstrap-css'  href='css/bootstrap.min.css?ver=3.3.7' type='text/css' media='all' />
+	<link rel="stylesheet" href="css/font-awesome.css">
+	<link rel='stylesheet' id='animate-css'  href='css/animate.css?ver=4.7' type='text/css' media='all' />
+	<link rel='stylesheet' id='slicknav-css'  href='css/slicknav.css?ver=4.7' type='text/css' media='all' />
+	<link rel='stylesheet' id='refib-tidytheme-style-css'  href='css/1/style.css?ver=5.0.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='adam-tidytheme-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%7CPT+Sans%3A700' type='text/css' media='all' />
+	<link rel='stylesheet' id='kc-general-css'  href='css/kingcomposer.min.css?ver=2.7.8' type='text/css' media='all' />
+	<link rel='stylesheet' id='kc-animate-css'  href='css/1/animate.css?ver=2.7.8' type='text/css' media='all' />
+	<link rel='stylesheet' id='kc-icon-1-css'  href='css/icon.css' type='text/css' media='all' />
+
 	<style id='adam_custom_style-inline-css' type='text/css'>
 		body {
 			font-family: Roboto;
@@ -155,7 +172,8 @@
 			border-left: 4px solid #d4b068
 		}
 	</style>
-	<link rel='stylesheet' id='kc-general-css'
+
+	<!-- <link rel='stylesheet' id='kc-general-css'
 		href='http://ttheme.website/refib/wp-content/plugins/kingcomposer/assets/frontend/css/kingcomposer.min.css?ver=2.7.8'
 		type='text/css' media='all' />
 	<link rel='stylesheet' id='kc-animate-css'
@@ -179,8 +197,11 @@
 		href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2Fabout%2F" />
 	<link rel="alternate" type="text/xml+oembed"
 		href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2Fabout%2F&#038;format=xml" />
-	<script
-		type="text/javascript">var kc_script_data = { ajax_url: "http://ttheme.website/refib/wp-admin/admin-ajax.php" }</script>
+	<script		type="text/javascript">
+		var kc_script_data = { ajax_url: "http://ttheme.website/refib/wp-admin/admin-ajax.php" }
+	</script> -->
+
+
 	<style type="text/css">
 		.recentcomments a {
 			display: inline !important;
@@ -225,6 +246,10 @@
 			background: transparent url(img/testimonial.jpg) center center/cover no-repeat fixed;
 		}
 	</style>
+
+<script type='text/javascript' src='js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+
 </head>
 
 <body class="page-template-default page page-id-295 kingcomposer kc-css-system">
@@ -329,7 +354,7 @@
 													<div class="kc-elm kc-css-932656"
 														style="height: 100px; clear: both; width:100%;"></div>
 													<div class="base-header">
-														<h3 style="color:#fff;"> Clients Testimonial </h3>
+														<h3 style="color:#fff;"> Отзывы клиентов </h3>
 													</div>
 
 													<script>
@@ -620,7 +645,19 @@
 	</footer><!-- #colophon -->
 	</div><!-- #page -->
 
-	<script type='text/javascript'>
+	<script type='text/javascript' src='js/scripts.js?ver=5.0.2'></script>
+	<script type='text/javascript' src='js/owl.carousel.min.js?ver=20120206'></script>
+	<script type='text/javascript' src='js/jquery.mixitup.min.js?ver=20120206'></script>
+	<script type='text/javascript' src='js/isotope.min.js?ver=20120206'></script>
+	<script type='text/javascript' src='js/bootstrap.min.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/menumaker.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/jquery.slicknav.min.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/main.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/kingcomposer.min.js?ver=2.7.8'></script>
+	<script type='text/javascript' src='js/wp-embed.min.js?ver=5.0.4'></script>
+	<script type="text/javascript"></script>
+
+	<!-- <script type='text/javascript'>
 		/* <![CDATA[ */
 		var wpcf7 = { "apiSettings": { "root": "http:\/\/ttheme.website\/refib\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" }, "recaptcha": { "messages": { "empty": "Please verify that you are not a robot." } } };
 /* ]]> */
@@ -645,7 +682,7 @@
 		src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/main.js?ver=3.3.7'></script>
 	<script type='text/javascript'
 		src='http://ttheme.website/refib/wp-content/plugins/kingcomposer/assets/frontend/js/kingcomposer.min.js?ver=2.7.8'></script>
-	<script type='text/javascript' src='http://ttheme.website/refib/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script>
+	<script type='text/javascript' src='http://ttheme.website/refib/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script> -->
 
 </body>
 
