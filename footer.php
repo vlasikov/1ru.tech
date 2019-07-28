@@ -55,18 +55,19 @@
                 <div class="col-md-3 col-sm-3 col-xs-12 footer_col">
                     <div id="tag_cloud-2" class="widget widget_tag_cloud">
                         <h4 class="widget-title">Top Tags</h4>
-                        <div class="tagcloud"><a href="computer.html"
+                        <div class="tagcloud">
+                            <a href="#"
                                 class="tag-cloud-link tag-link-180 tag-link-position-1" style="font-size: 8pt;"
                                 aria-label="Computer (2 items)">Computer</a>
-                            <a href="laptop.html" class="tag-cloud-link tag-link-181 tag-link-position-2"
+                            <a href="#" class="tag-cloud-link tag-link-181 tag-link-position-2"
                                 style="font-size: 8pt;" aria-label="Laptop (2 items)">Laptop</a>
-                            <a href="mobile.html" class="tag-cloud-link tag-link-182 tag-link-position-3"
+                            <a href="#" class="tag-cloud-link tag-link-182 tag-link-position-3"
                                 style="font-size: 22pt;" aria-label="Mobile (8 items)">Mobile</a>
-                            <a href="phone.html" class="tag-cloud-link tag-link-183 tag-link-position-4"
+                            <a href="#" class="tag-cloud-link tag-link-183 tag-link-position-4"
                                 style="font-size: 8pt;" aria-label="Phone (2 items)">Phone</a>
-                            <a href="smartphone.html" class="tag-cloud-link tag-link-184 tag-link-position-5"
+                            <a href="#" class="tag-cloud-link tag-link-184 tag-link-position-5"
                                 style="font-size: 11.574468085106pt;" aria-label="Smartphone (3 items)">Smartphone</a>
-                            <a href="work.html" class="tag-cloud-link tag-link-185 tag-link-position-6"
+                            <a href="#" class="tag-cloud-link tag-link-185 tag-link-position-6"
                                 style="font-size: 11.574468085106pt;" aria-label="Works (3 items)">Works</a>
                         </div>
                     </div>

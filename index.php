@@ -23,31 +23,6 @@
 	}
 </style>
 
-<!-- <link rel='stylesheet' id='wp-block-library-css'  href='http://ttheme.website/refib/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://ttheme.website/refib/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='owl.carousel-css'  href='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/css/owl.carousel.css?ver=5.0.4' type='text/css' media='all' />
-<link rel='stylesheet' id='refit-toolkit-css'  href='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/css/refit-toolkit.css?ver=5.0.4' type='text/css' media='all' />
-<link rel='stylesheet' id='refib_default-css'  href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/css/default.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css'  href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/css/bootstrap.min.css?ver=3.3.7' type='text/css' media='all' />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
-<link rel='stylesheet' id='animate-css'  href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/css/animate.css?ver=4.7' type='text/css' media='all' />
-<link rel='stylesheet' id='slicknav-css'  href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/css/slicknav.css?ver=4.7' type='text/css' media='all' />
-<link rel='stylesheet' id='refib-tidytheme-style-css'  href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/style.css?ver=5.0.4' type='text/css' media='all' />
-<link rel='stylesheet' id='adam-tidytheme-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%7CPT+Sans%3A700' type='text/css' media='all' />
-<link rel='stylesheet' id='adam_custom_style-css'  href='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/css/custom_style.css?ver=5.0.4' type='text/css' media='all' />
-<link rel='stylesheet' id='kc-general-css'  href='http://ttheme.website/refib/wp-content/plugins/kingcomposer/assets/frontend/css/kingcomposer.min.css?ver=2.7.8' type='text/css' media='all' />
-<link rel='stylesheet' id='kc-animate-css'  href='http://ttheme.website/refib/wp-content/plugins/kingcomposer/assets/css/animate.css?ver=2.7.8' type='text/css' media='all' />
-<link rel='stylesheet' id='kc-icon-1-css'  href='css/icon.css' type='text/css' media='all' />
-<link rel='https://api.w.org/' href='http://ttheme.website/refib/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ttheme.website/refib/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ttheme.website/refib/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.0.4" />
-<link rel="canonical" href="http://ttheme.website/refib/" />
-<link rel='shortlink' href='http://ttheme.website/refib/' />
-<link rel="alternate" type="application/json+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F&#038;format=xml" /> -->
-
-
 <link rel='stylesheet' id='wp-block-library-css'  href='css/style.min.css?ver=5.0.4' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='css/styles.css?ver=5.0.2' type='text/css' media='all' />
 <link rel='stylesheet' id='owl.carousel-css'  href='css/owl.carousel.css?ver=5.0.4' type='text/css' media='all' />
@@ -62,16 +37,6 @@
 <link rel='stylesheet' id='kc-general-css'  href='css/kingcomposer.min.css?ver=2.7.8' type='text/css' media='all' />
 <link rel='stylesheet' id='kc-animate-css'  href='css/1/animate.css?ver=2.7.8' type='text/css' media='all' />
 <link rel='stylesheet' id='kc-icon-1-css'  href='css/icon.css' type='text/css' media='all' />
-
-<!-- <link rel='https://api.w.org/' href='http://ttheme.website/refib/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ttheme.website/refib/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ttheme.website/refib/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.0.4" />
-<link rel="canonical" href="http://ttheme.website/refib/" />
-<link rel='shortlink' href='http://ttheme.website/refib/' />
-<link rel="alternate" type="application/json+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://ttheme.website/refib/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fttheme.website%2Frefib%2F&#038;format=xml" /> -->
-
 
 <style id='adam_custom_style-inline-css' type='text/css'>
 
@@ -334,62 +299,7 @@
 								</div>
 							</section>
 							<section class="kc-elm kc-css-555276 kc_row">
-								<div class="kc-row-container  kc-container">
-									<div class="kc-wrap-columns">
-										<div class="kc-elm kc-css-939501 kc_col-sm-12 kc_column kc_col-sm-12">
-											<div class="kc-col-container">
-												<div class="kc-elm kc-css-953385" style="height: 100px; clear: both; width:100%;"></div>
-												<div class="base-header">
-													<h3 style="color:#414141;">Our Services</h3>
-												</div>
-												<div class="kc-elm kc-css-42407 kc_row kc_row_inner">
-													<div class="kc-elm kc-css-941368 kc_col-sm-4 kc_column_inner kc_col-sm-4">
-														<div class="kc_wrapper kc-col-inner-container">
-															<div class="services-box-2">
-																<img src="img/s1-1-2.jpg" alt="" />
-																<div class="number">01</div>
-																<h4>Technical Support
-																</h4>
-																<div class="subtext">Attended no do thoughts me on dissuade scarcely. Own are
-																	prettyot spring suffer old
-																	denote his. By proposal speedily mr striking amto . Nut attention sex questions
-																	applauded how
-																	travelling occasionl aat oh sympathize </div>
-															</div>
-														</div>
-													</div>
-													<div class="kc-elm kc-css-220757 kc_col-sm-4 kc_column_inner kc_col-sm-4">
-														<div class="kc_wrapper kc-col-inner-container">
-															<div class="services-box-2">
-																<img src="img/s3-1-2.jpg" alt="" />
-																<div class="number">02</div>
-																<h4>Software Upgrades</h4>
-																<div class="subtext">Attended no do thoughts me on dissuade scarcely. Own are
-																	prettyot spring suffer old denote his. By proposal speedily mr striking amto .
-																	Nut attention sex questions applauded how travelling occasionl aat oh sympathize
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="kc-elm kc-css-44566 kc_col-sm-4 kc_column_inner kc_col-sm-4">
-														<div class="kc_wrapper kc-col-inner-container">
-															<div class="services-box-2">
-																<img src="img/s2-1-2.jpg" alt="" />
-																<div class="number">03</div>
-																<h4>Hardware Upgrades </h4>
-																<div class="subtext">Attended no do thoughts me on dissuade scarcely. Own are
-																	prettyot spring suffer old denote his. By proposal speedily mr striking amto .
-																	Nut attention sex questions applauded how travelling occasionl aat oh sympathize
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="kc-elm kc-css-418762" style="height: 94px; clear: both; width:100%;"></div>
-											</div>
-										</div>
-									</div>
-								</div>
+								<?php require "our_services.php";?>
 							</section>
 							<section data-kc-fullwidth="row" class="kc-elm kc-css-457864 kc_row">
 								<div class="kc-row-container  kc-container  calltoaction">
@@ -863,37 +773,20 @@
 	</div>	
 	
 	<?php require "footer.php";?>
-	
+
 	</div><!-- #page -->
 
-<script type='text/javascript' src='js/scripts.js?ver=5.0.2'></script>
-<script type='text/javascript' src='js/owl.carousel.min.js?ver=20120206'></script>
-<script type='text/javascript' src='js/jquery.mixitup.min.js?ver=20120206'></script>
-<script type='text/javascript' src='js/isotope.min.js?ver=20120206'></script>
-<script type='text/javascript' src='js/bootstrap.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/menumaker.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/jquery.slicknav.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/main.js?ver=3.3.7'></script>
-<script type='text/javascript' src='js/kingcomposer.min.js?ver=2.7.8'></script>
-<script type='text/javascript' src='js/wp-embed.min.js?ver=5.0.4'></script>
-<script type="text/javascript"></script>
-
-<!-- <script type='text/javascript'>
-	/* <![CDATA[ */
-	var wpcf7 = {"apiSettings":{"root":"http:\/\/ttheme.website\/refib\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
-	/* ]]> */
-</script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/owl.carousel.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/jquery.mixitup.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/isotope.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/refit-toolkit/assets/js/refit-main.js?ver=20120206'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/bootstrap.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/menumaker.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/jquery.slicknav.min.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/themes/refib-tidytheme/assets/js/main.js?ver=3.3.7'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-content/plugins/kingcomposer/assets/frontend/js/kingcomposer.min.js?ver=2.7.8'></script>
-<script type='text/javascript' src='http://ttheme.website/refib/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script> -->
+	<script type='text/javascript' src='js/scripts.js?ver=5.0.2'></script>
+	<script type='text/javascript' src='js/owl.carousel.min.js?ver=20120206'></script>
+	<script type='text/javascript' src='js/jquery.mixitup.min.js?ver=20120206'></script>
+	<script type='text/javascript' src='js/isotope.min.js?ver=20120206'></script>
+	<script type='text/javascript' src='js/bootstrap.min.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/menumaker.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/jquery.slicknav.min.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/main.js?ver=3.3.7'></script>
+	<script type='text/javascript' src='js/kingcomposer.min.js?ver=2.7.8'></script>
+	<script type='text/javascript' src='js/wp-embed.min.js?ver=5.0.4'></script>
+	<script type="text/javascript"></script>
 
 </body>
 </html>
